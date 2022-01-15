@@ -18,3 +18,8 @@ functions:
     handler: ./pydict3
     image: localhost:5000/pydict3:latest
 
+  mysql:
+    lang: python3-flask-debian
+    handler: ./mysql
+    image: localhost:5000/mysql:latest
+

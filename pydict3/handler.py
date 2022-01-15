@@ -4,4 +4,4 @@ def handle(req):
         req (str): request body
     """
 
-    return 'success pydict3'
+    return 'success pydict5'
