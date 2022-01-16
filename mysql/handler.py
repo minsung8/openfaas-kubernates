@@ -4,7 +4,7 @@ import pymysql
 def handle(req):
 
     ret = []
-    db = pymysql.connect(host='localhost', user='local', db='storelink_vaccumator', password='local1234', charset='utf8')
+    db = pymysql.connect(host='127.0.0.1', port=3306, user='local', db='storelink_vaccumator', password='local1234', charset='utf8')
     curs = db.cursor()
 
     return 'success'
