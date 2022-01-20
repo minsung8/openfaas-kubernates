@@ -4,8 +4,6 @@
     <list default="true" id="a46e5a61-2d51-4139-a70b-a4a26e8586e2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysql/handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/handler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pydict3/handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/pydict3/handler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,9 @@
       <workItem from="1642253388263" duration="4207000" />
       <workItem from="1642308332803" duration="2522000" />
       <workItem from="1642313533718" duration="94000" />
-      <workItem from="1642313807890" duration="628000" />
+      <workItem from="1642313807890" duration="672000" />
+      <workItem from="1642381102146" duration="11000" />
+      <workItem from="1642681195970" duration="1020000" />
     </task>
     <servers />
   </component>
